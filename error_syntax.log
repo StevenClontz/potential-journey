@@ -1,0 +1,2 @@
+/home/user/sandbox/new-pretext-project/source/backmatter.ptx:68:12:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: section line 24 and appendix
+/home/user/sandbox/new-pretext-project/source/main.ptx:41:0:ERROR:XINCLUDE:XINCLUDE_NO_FALLBACK: could not load /home/user/sandbox/new-pretext-project/source/backmatter.ptx, and no fallback was found
